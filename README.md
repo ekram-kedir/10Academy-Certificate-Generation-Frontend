@@ -1,1 +1,1 @@
-# 10Academy-Certificate-Generation-Frontend
+# 10Academy-Certificate-Generation-frontend
